@@ -41,7 +41,7 @@ function App() {
        <div className="App">
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div className="container">
-      <a className="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+      <a className="navbar-brand js-scroll-trigger" href="#page-top"> Pancy Magazine</a>
       <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i className="fa fa-bars"></i>
@@ -49,16 +49,16 @@ function App() {
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav text-uppercase ml-auto">
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#services">Services</a>
+            <a className="nav-link js-scroll-trigger" href="#services">Home</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+            <a className="nav-link js-scroll-trigger" href="#portfolio">News</a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#about">About</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#team">Team</a>
+            <a className="nav-link js-scroll-trigger" href="#team">Social Media News</a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#contact">Contact</a>
@@ -72,10 +72,10 @@ function App() {
   <header className="masthead">
     <div className="container">
       <div className="intro-text">
-        <div className="intro-lead-in">Welcome To Our Studio!</div>
+        <div className="intro-lead-in">Welcome To Pancy Habeshan magazine</div>
         <div className="intro-heading text-uppercase">It's Nice To Meet You</div>
-        <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
-      </div>
+        <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">More News</a>
+      </div>  
     </div>
   </header>
 
