@@ -61,8 +61,8 @@ h1,h2,h3,h4,h5,h6{
         padding:20px 40px
     }
     .btn-primary{
-        background-color:#fed136;
-        border-color:#fed136
+        background-color: #2DFFEB;
+        border-color:#2DFFEB;
     }
     .btn-primary:active,.btn-primary:focus,.btn-primary:hover{
         background-color:#fec810!important;
@@ -125,7 +125,10 @@ h1,h2,h3,h4,h5,h6{
                 }}header.masthead{
                     text-align:center;
                     color:#fff;
-                    background-image:url(../img/header-bg.jpg);
+                    background-color: #060012;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Cpath fill='none' stroke-width='4' stroke-opacity='0.22' id='a' d='M0.74-509.63l485.39 352.65l-185.4 570.61h-599.97l-185.4-570.61L0.74-509.63 M0.74-510.87l-486.56 353.51l185.85 571.99h601.42L487.3-157.36L0.74-510.87L0.74-510.87z'/%3E%3C/defs%3E%3Cg transform='scale(0.802)' style='transform-origin:center'%3E%3Cg transform='rotate(13.68 0 0)' style='transform-origin:center'%3E%3Cg transform='rotate(-38.4 0 0)' style='transform-origin:center'%3E%3Cg transform='translate(1000 750)'%3E%3Cuse stroke='%232DFFEB' href='%23a' transform='rotate(2.4 0 0) scale(1.024)'/%3E%3Cuse stroke='%2300fafa' href='%23a' transform='rotate(4.8 0 0) scale(1.048)'/%3E%3Cuse stroke='%2300f5ff' href='%23a' transform='rotate(7.2 0 0) scale(1.072)'/%3E%3Cuse stroke='%2300efff' href='%23a' transform='rotate(9.6 0 0) scale(1.096)'/%3E%3Cuse stroke='%2300e7ff' href='%23a' transform='rotate(12 0 0) scale(1.12)'/%3E%3Cuse stroke='%2300dfff' href='%23a' transform='rotate(14.4 0 0) scale(1.144)'/%3E%3Cuse stroke='%2300d7ff' href='%23a' transform='rotate(16.8 0 0) scale(1.168)'/%3E%3Cuse stroke='%2328cdff' href='%23a' transform='rotate(19.2 0 0) scale(1.192)'/%3E%3Cuse stroke='%2366c2ff' href='%23a' transform='rotate(21.6 0 0) scale(1.216)'/%3E%3Cuse stroke='%238db6ff' href='%23a' transform='rotate(24 0 0) scale(1.24)'/%3E%3Cuse stroke='%23aca9ff' href='%23a' transform='rotate(26.4 0 0) scale(1.264)'/%3E%3Cuse stroke='%23c69bff' href='%23a' transform='rotate(28.8 0 0) scale(1.288)'/%3E%3Cuse stroke='%23dc8df7' href='%23a' transform='rotate(31.2 0 0) scale(1.312)'/%3E%3Cuse stroke='%23ec7fe1' href='%23a' transform='rotate(33.6 0 0) scale(1.336)'/%3E%3Cuse stroke='%23f872c9' href='%23a' transform='rotate(36 0 0) scale(1.36)'/%3E%3Cuse stroke='%23FF67AF' href='%23a' transform='rotate(38.4 0 0) scale(1.384)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
                     background-repeat:no-repeat;
                     background-attachment:scroll;
                     background-position:center center;
